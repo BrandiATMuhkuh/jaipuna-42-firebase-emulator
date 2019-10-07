@@ -1,0 +1,10 @@
+{
+    "name": "jaipuna-42-firebase-emulator",
+    "version": "1.0.0",
+    "repository": "git@github.com:BrandiATMuhkuh/jaipuna-42-firebase-emulator.git",
+    "author": "Jürgen Brandstetter <jurgen@jaipuna.com>",
+    "license": "MIT",
+    "dependencies": {
+        "firebase-tools": "^7.3.2"
+    }
+}
